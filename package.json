@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "three": "^0.140.0",
+    "type": "module"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.17.10",
+    "@babel/core": "^7.17.10",
+    "@babel/node": "^7.17.10",
+    "@babel/preset-env": "^7.17.10"
+  }
+}
